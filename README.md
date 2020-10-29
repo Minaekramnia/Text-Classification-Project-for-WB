@@ -1,2 +1,3 @@
-# Text-Classification for IEG(Independant Evaluation Group) Projects 
-Classifying ~4000 projects of IEG using Machine Learning Algorithms (Naive Bayes, Kmeans, etc.)
+# Text-Classification 
+The goal of this project is to classify ~4000 textual projects from multiple disciplines in the World Bank, for evaluation by the Independant Evaluation Group using Naive Bayes, Kmeans, Random Forest and Neural Network algorithms. 
+
